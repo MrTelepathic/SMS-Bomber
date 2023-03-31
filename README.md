@@ -4,7 +4,7 @@ The best SMS Bomber iranian.....
 
 <b> Enter the following commands to run the script  </b>
 ```
-git clone https://github.com/ShahrokhParazit/SMS-Bomber
+git clone https://github.com/MrTelepathic/SMS-Bomber
 ```
 ```
 cd SMS-Bomber
